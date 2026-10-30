@@ -1,0 +1,3 @@
+SHELL=/bin/bash
+HOME=/home/hajrazafar25
+USER=hajrazafar25
